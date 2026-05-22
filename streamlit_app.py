@@ -4,5 +4,4 @@ st.title("🎈 AbilGacor67")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-with st.bottom:
-    st.[element_name]
+st.link_button("Go to My Spots", "https://open.spotify.com/user/317swkjjrkuzt2npazpnvkxs742m?si=prYttiWuSNWO1wG530UCRA")
